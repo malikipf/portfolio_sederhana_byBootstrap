@@ -101,7 +101,7 @@ section {
   top: 52%;
   left: 50%;
   transform: translate3d(-50%, -52%, 80px);
-  max-width: 350px;
+  max-width: 300px;
   transition: 0.5s;
   z-index: 2;
 }
